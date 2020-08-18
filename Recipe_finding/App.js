@@ -4,8 +4,8 @@ import Recipe from './components/Recipe';
 
 const App = () =>{
 
-  const APP_ID = "9291d06f"
-  const APP_KEYS = "640c0affafd640d67049120833cb5cc5"
+  const APP_ID = "APP_ID"
+  const APP_KEYS = "APP_KEYS"
 
 
  /* const [ counter , setCounter] = useState(0)*/
